@@ -1,0 +1,8 @@
+****AUTHOR****
+
+GAURAV GANDHI
+NET ID: gmg140230
+
+Installable apk file can be found in bin/ directory.
+
+This is a simple contact manager.
